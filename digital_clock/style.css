@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #0f172a;
+    color: #f8fafc;
+    font-family: 'Poppins', sans-serif;
+}
+.heading {
+    position: absolute;
+    top: 20px;
+    font-size: 2rem;
+    text-align: center;
+  }
+
+  .parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .clock {
+    font-size: 4rem;
+    padding: 20px 40px;
+    background: #1e293b;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+  }
