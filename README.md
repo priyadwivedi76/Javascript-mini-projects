@@ -1,6 +1,6 @@
 # 🚀 JavaScript Fundamentals Projects  
 
-This repository is a **collection of 30+ JavaScript projects** designed to strengthen my **core fundamentals** and build confidence in problem-solving with Vanilla JS.  
+This repository is a **collection of JavaScript projects** designed to strengthen my **core fundamentals** and build confidence in problem-solving with Vanilla JS.  
 
 Each project covers essential JS concepts:  
 - ✅ DOM Manipulation  
